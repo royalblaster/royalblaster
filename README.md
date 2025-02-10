@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://leetcode.com/royalblaster/">
-    <img src="https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats">
+    <img src="https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats" width="600" height="300">
   </a>
 </div>
 
