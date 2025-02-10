@@ -50,6 +50,15 @@ Here are some ideas to get you started:
 </p>
 
 
+# 📝 Articles
+
+## [The Updated ITAG Spinal Simulator (ISS) For Difficult Lumbar Punctures](https://ieeexplore.ieee.org/document/10782842)
+*Published in IEEE Explore - 2024*
+
+[Read More](https://ieeexplore.ieee.org/document/10782842)
+
+
+
 # 🛠 Languages and Tools
 
 ## Programming Languages
