@@ -13,6 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#
+
+<div align="center">
+  <h1>👋 Hi, World! I'm Ehsan</h1>
+  
+  <img src="https://via.placeholder.com/150" alt="Ehsan's Profile Picture" width="150" style="border-radius: 50%;" />
+  
+  <p>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    </a>
+  </p>
+</div>
+
+
+
 
 # 👩‍💻  About Me
 
