@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <p align="left">I'm Ehsan from Montreal, QC, Canada <br><br>- 🔭 I’m a<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I play chess</p>
 
----
-
 
 
 # Connect with me
@@ -28,7 +26,6 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>
 </p>
 
----
 
 # Languages and Tools
 
@@ -108,7 +105,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h1 align="left"> <a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>   My Stats :</h1>
+<h1 align="left"> <a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>   My Stats </h1>
 
 
 <div align="center">
