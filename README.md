@@ -16,19 +16,22 @@ Here are some ideas to get you started:
 #
 
 <div align="center">
-  <h1>👋 Hi, World! I'm Ehsan</h1>
+  <div>👋 Hi, World! I'm Ehsan</div>
   
-<img 
-  src="https://raw.githubusercontent.com/royalblaster/royalblaster/main/githubprofile.png" 
-  alt="Profile Picture" 
-/>
-     
+  <img 
+    src="https://raw.githubusercontent.com/royalblaster/royalblaster/main/githubprofile.png" 
+    alt="Profile Picture" 
+    width="200" 
+    style="border-radius: 50%; border: 2px solid #ddd;" 
+  />
+
+  <div style="margin-top: 20px;">📞 Connect with me</div>
   
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
     </a>
-    <a href="mailto:your.email@example.com" target="_blank">
+    <a href="mailto:your.email@example.com" target="_blank" style="margin-left: 20px;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
     </a>
   </p>
