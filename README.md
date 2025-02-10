@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>👋 Hi, World! I'm Ehsan</h1>
   
-  <img src="https://github.com/royalblaster/royalblaster/githubprofile.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/royalblaster/royalblaster/main/githubprofile.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
   
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
