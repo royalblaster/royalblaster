@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 ###
-[![LeetCode Stats](https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/royalblaster/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/royalblaster?theme=light&font=Baloo%20Bhai%202)](https://leetcode.com/royalblaster "LeetCode Profile")
 
 ###
 
