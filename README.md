@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 👩‍💻  About Me
+## 👩‍💻  About Me
 
 <p align="left">I'm Ehsan from Montreal, QC, Canada <br><br>- 🔭 I’m a<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I play chess</p>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-### Connect with me
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ehsan-ahmed-515663250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsan-ahmed-515663250" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Languages and Tools
+## Languages and Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -107,12 +107,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </p>
 
+---
 
-###
+## 
 
-<h3 align="left"> <a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>   My Stats :</h3>
+<h2 align="left"> <a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>   My Stats :</h3>
 
-###
 
 <div align="center">
   <a href="https://leetcode.com/royalblaster/">
@@ -120,4 +120,3 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
