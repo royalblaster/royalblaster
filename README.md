@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 
-# Languages and Tools
+# 🛠 Languages and Tools
 
 ## Programming Languages
 
