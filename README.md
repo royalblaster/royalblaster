@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   - 🔭 I specialize in developing innovative software solutions. <br>
   - ⚡ When I’m not coding, you can find me reading comics, playing chess, or sharpening my skills to stay ahead in tech. <br>
   - 🤝 Collaboration: I enjoy working in teams where we can share knowledge, learn from one another, and create something impactful together. <br>
-  - 🌟 Leadership Aspiration: I aspire to take on leadership roles in the tech industry, helping teams grow and innovate. <br>
+  - 🌟 Leadership Aspiration: I aspire to take on leadership roles in the tech industry, helping teams grow and innovate. <br><br>
   Let’s connect and build something amazing!
 </p>
 
