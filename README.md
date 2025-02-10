@@ -76,52 +76,51 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 #### Cloud Services
-- [<img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>](https://aws.amazon.com/amplify/) **AWS Amplify**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>](https://aws.amazon.com) **AWS**
-- [<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>](https://azure.microsoft.com/en-in/) **Microsoft Azure**
+[<img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>](https://aws.amazon.com/amplify/) **AWS Amplify**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>](https://aws.amazon.com) **AWS**  
+[<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>](https://azure.microsoft.com/en-in/) **Microsoft Azure**
 
 #### Programming Languages
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) **C**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) **C++**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>](https://www.w3schools.com/cs/) **C#**
-- [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>](https://dart.dev) **Dart**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com) **Java**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) **JavaScript**
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>](https://www.mathworks.com/) **MATLAB**
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) **C**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) **C++**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>](https://www.w3schools.com/cs/) **C#**  
+[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>](https://dart.dev) **Dart**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com) **Java**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) **JavaScript**  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>](https://www.mathworks.com/) **MATLAB**
 
 #### Frameworks and Libraries
-- [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>](https://www.djangoproject.com/) **Django**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) **Express.js**
-- [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev) **Flutter**
-- [<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>](https://babeljs.io/) **Babel**
+[<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>](https://www.djangoproject.com/) **Django**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) **Express.js**  
+[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev) **Flutter**  
+[<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>](https://babeljs.io/) **Babel**
 
 #### DevOps and Containers
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/) **Docker**
-- [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>](https://kubernetes.io) **Kubernetes**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/) **Linux**
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/) **Docker**  
+[<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>](https://kubernetes.io) **Kubernetes**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/) **Linux**
 
 #### Databases
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) **MongoDB**
-- [<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>](https://mariadb.org/) **MariaDB**
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) **MongoDB**  
+[<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>](https://mariadb.org/) **MariaDB**
 
 #### Testing
-- [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>](https://www.cypress.io) **Cypress**
-- [<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>](https://mochajs.org) **Mocha**
-- [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>](https://jestjs.io) **Jest**
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>](https://www.cypress.io) **Cypress**  
+[<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>](https://mochajs.org) **Mocha**  
+[<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>](https://jestjs.io) **Jest**
 
 #### UI/UX and Design
-- [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/) **Figma**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) **Bootstrap**
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/) **Figma**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) **Bootstrap**
 
 #### Other Tools
-- [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/) **Bash**
-- [<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>](https://hadoop.apache.org/) **Hadoop**
-- [<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>](https://grafana.com) **Grafana**
+[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/) **Bash**  
+[<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>](https://hadoop.apache.org/) **Hadoop**  
+[<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>](https://grafana.com) **Grafana**
 
 #### Web Development
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) **HTML5**
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) **CSS3**
-
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) **HTML5**  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) **CSS3**
 
 ###
 
