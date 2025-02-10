@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <div>👋 Hi, World! I'm Ehsan</div>
   
   <img 
-    src="https://raw.githubusercontent.com/royalblaster/royalblaster/main/githubprofile.png" 
+    src="https://raw.githubusercontent.com/royalblaster/royalblaster/githubprofile.png" 
     alt="Profile Picture" 
     width="200" 
     style="border-radius: 50%; border: 2px solid #ddd;" 
