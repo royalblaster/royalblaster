@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> <a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>   My Stats :</h3>
 
 ###
 
