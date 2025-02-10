@@ -13,12 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
 
 <div align="center">
-  <div>👋 Hi, World! I'm Ehsan</div>
+  <h1 align="center"> 👋 Hi, World! I'm Ehsan</h1>
+
+  <img 
+    src="https://raw.githubusercontent.com/royalblaster/royalblaster/main/githubprofile.png" 
+    alt="Profile Picture" 
+    width="400" 
+  />
   
-  <div style="margin-top: 20px;">📞 Connect with me</div>
+  <h3>📞 Connect with me</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
