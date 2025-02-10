@@ -78,7 +78,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-[![LeetCode Stats](https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/royalblaster/)
+  <a href="https://leetcode.com/royalblaster/">
+    <img src="https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats">
+  </a>
 </div>
 
 ###
