@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <img 
   src="https://raw.githubusercontent.com/royalblaster/royalblaster/main/githubprofile.png" 
   alt="Profile Picture" 
-  className="w-36 h-36 rounded-full object-cover"
 />
      
   
