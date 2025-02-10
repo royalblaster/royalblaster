@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 👩‍💻  About Me
+# 👩‍💻  About Me
 
 <p align="left">I'm Ehsan from Montreal, QC, Canada <br><br>- 🔭 I’m a<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I play chess</p>
 
