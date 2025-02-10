@@ -38,9 +38,16 @@ Here are some ideas to get you started:
 
 
 
-# 👩‍💻  About Me
+# 👩‍💻 About Me
 
-<p align="left">I'm Ehsan from Montreal, QC, Canada <br><br>- 🔭 I’m a<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I play chess</p>
+<p align="left">
+  Hey there! I'm Ehsan, a passionate software developer based in Montreal, QC, Canada. Here’s a bit about me: <br><br>
+  - 🔭 I specialize in developing innovative software solutions. <br>
+  - ⚡ When I’m not coding, you can find me reading comics, playing chess, or sharpening my skills to stay ahead in tech. <br><br>
+  - 🤝 Collaboration: I enjoy working in teams where we can share knowledge, learn from one another, and create something impactful together. <br><br>
+  - 🌟 Leadership Aspiration: I aspire to take on leadership roles in the tech industry, helping teams grow and innovate. <br><br>
+  Let’s connect and build something amazing!
+</p>
 
 
 # 🛠 Languages and Tools
