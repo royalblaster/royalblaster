@@ -50,9 +50,8 @@ Here are some ideas to get you started:
 
 
 ###
-<a href="https://leetcard.jacoblin.cool/royalblaster" target="_blank" rel="noopener noreferrer">
-  <img src="https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats Card" />
-</a>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/royalblaster/)
+
 ###
 
 ###
