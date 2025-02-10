@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 
 ###
 
+
+###
+[![LeetCode Stats](https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/royalblaster/)
+
+###
+
 ###
 
 <h3 align="left">Connect with me:</h3>
