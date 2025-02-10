@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 <div align="center">
   <div>👋 Hi, World! I'm Ehsan</div>
   
-
+  <img 
+    src="https://raw.githubusercontent.com/royalblaster/royalblaster/main/githubprofile.png" 
+    alt="Profile Picture" 
+    width="200" 
+    style="border-radius: 50%; border: 2px solid #ddd;" 
+  />
 
   <div style="margin-top: 20px;">📞 Connect with me</div>
   
