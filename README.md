@@ -43,14 +43,6 @@ Here are some ideas to get you started:
 <p align="left">I'm Ehsan from Montreal, QC, Canada <br><br>- 🔭 I’m a<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I play chess</p>
 
 
-
-# 📞 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/ehsan-ahmed-515663250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsan-ahmed-515663250" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>
-</p>
-
-
 # 🛠 Languages and Tools
 
 ## Programming Languages
