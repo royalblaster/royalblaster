@@ -44,15 +44,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Software+Engineer+%7C+Full+Stack+Developer;Passionate+about+Web+Development;Lifelong+Learner)](https://git.io/typing-svg)
 
 
-<div style="border: 2px solid #00ADB5; padding: 10px; border-radius: 10px; transition: 0.3s ease-in-out;" onmouseover="this.style.background='#00ADB5'; this.style.borderColor='#EEEEEE';" onmouseout="this.style.background='transparent'; this.style.borderColor='#00ADB5';">
-  
-  🚀 **Hover over this box to see the effect!**  
-  - 🔹 Background color changes  
-  - 🔹 Border color changes  
-  - 🔹 Smooth transition effect  
-
-</div>
-
 <p align="left">
   Hey there! I'm Ehsan, a passionate software developer based in Montreal, QC, Canada. Here’s a bit about me: <br><br>
   - 🔭 I specialize in developing innovative software solutions. <br>
