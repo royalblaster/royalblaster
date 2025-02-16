@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 
 # 👩‍💻 About Me
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="24px"> 
+  Hey, I'm Ehsan!
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="40px">
+</h1>
 
 <p align="left">
   Hey there! I'm Ehsan, a passionate software developer based in Montreal, QC, Canada. Here’s a bit about me: <br><br>
