@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 
 # 👩‍💻 About Me
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Passionate+About+Coding+and+Tech)](https://git.io/typing-svg)
+
+
 <p align="left">
   Hey there! I'm Ehsan, a passionate software developer based in Montreal, QC, Canada. Here’s a bit about me: <br><br>
   - 🔭 I specialize in developing innovative software solutions. <br>
