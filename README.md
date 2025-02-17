@@ -63,8 +63,7 @@ Here are some ideas to get you started:
 
 # 👩‍💻 About Me
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Software+Engineer+%7C+Full+Stack+Developer;Passionate+about+Web+Development;Lifelong+Learner)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=900&lines=Full-Stack+Software+Developer;Aspiring+Machine+Learning+Engineer;Up-and-Coming+Data+Analyst;Leader;Lifelong+Learner;Passionate+About+Leveraging+Data+to+Solve+Real-World+Problems;Team+Player+%26+Collaborator;Committed+to+Self-Improvement;Eager+to+Create+Meaningful+Impact)
 
 
 <p align="left">
