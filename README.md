@@ -14,21 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-  <h1 align="center"> 👋 Hi, World! I'm Ehsan</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, World! I'm Ehsan</h1>
 
-  <h3>📞 Connect with me</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
-    </a>
-    <a href="mailto:your.email@example.com" target="_blank" style="margin-left: 20px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
-    </a>
-  </p>
-</div>
-
+ 
 
 # 👩‍💻 About Me
 
@@ -37,13 +25,25 @@ Here are some ideas to get you started:
 
 <p align="left">
   Hey there! I'm Ehsan, a passionate software developer based in Montreal, QC, Canada. Here’s a bit about me: <br><br>
-  - 🔭 I specialize in developing innovative software solutions. <br>
-  - ⚡ When I’m not coding, you can find me reading comics, playing chess, or sharpening my skills to stay ahead in tech. <br>
-  - 🤝 Collaboration: I enjoy working in teams where we can share knowledge, learn from one another, and create something impactful together. <br>
-  - 🌟 Leadership Aspiration: I aspire to take on leadership roles in the tech industry, helping teams grow and innovate. <br><br>
+  - 🔭 I’m currently working on something cool. <br>
+  - 🌱 I’m currently learning Data Analytics. <br>
+  - 🤝 I enjoy working in teams where we can share knowledge, learn from one another, and create something impactful together. <br>
+  - 🌟 I aspire to take on leadership roles in the tech industry, helping teams grow and innovate. <br>
+  - ⚡ Fun Fact: When I’m not coding, you can find me reading comics, playing chess, or sharpening my skills to stay ahead in tech. <br><br>
   Let’s connect and build something amazing!
 </p>
 
+# 📞 Connect with me
+
+<p>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+    </a>
+    <a href="mailto:your.email@example.com" target="_blank" style="margin-left: 20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
+    </a>
+  </p>
+  
 
 # 📝 Articles
 
