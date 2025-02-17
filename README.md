@@ -120,6 +120,14 @@ Here are some ideas to get you started:
   <a href="https://www.nltk.org/" target="_blank"><img alt="Natural Language Processing" src="https://img.shields.io/badge/-NLP-1E7C8C?style=flat-square&logo=nltk&logoColor=white" /></a>
 
 
+  <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+  <a href="https://react-redux.js.org/" target="_blank"><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+
+
 </p>
 
 
