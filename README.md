@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 # 📝 Articles
 
-## [The Updated ITAG Spinal Simulator (ISS) For Difficult Lumbar Punctures](https://ieeexplore.ieee.org/document/10782842)
+### [The Updated ITAG Spinal Simulator (ISS) For Difficult Lumbar Punctures](https://ieeexplore.ieee.org/document/10782842)
 *Published in IEEE Explore - 2024*
 
 [Read More](https://ieeexplore.ieee.org/document/10782842)
