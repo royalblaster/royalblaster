@@ -76,13 +76,19 @@ Here are some ideas to get you started:
   <a href="https://www.postman.com/" target="_blank"><img alt="Postman API" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
   <a href="https://gradle.org/" target="_blank"><img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" /></a>
   <a href="https://cucumber.io/docs/gherkin/reference/" target="_blank"><img alt="Gherkin" src="https://img.shields.io/badge/-Gherkin-5B8D22?style=flat-square&logo=cucumber&logoColor=white" /></a>
-  <a href="https://www.w3schools.com/sql/" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+  <a href="https://docs.data.world/documentation/sql/concepts/basic/intro.html" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
   <a href="https://restfulapi.net/" target="_blank"><img alt="REST" src="https://img.shields.io/badge/-REST-00B4B4?style=flat-square&logo=rest&logoColor=white" /></a>
   <a href="https://www.soapui.org/" target="_blank"><img alt="SOAP API" src="https://img.shields.io/badge/-SOAP%20API-1C6F99?style=flat-square&logo=soapui&logoColor=white" /></a>
   <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
   <a href="https://cloud.google.com/bigquery" target="_blank"><img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-00B5E2?style=flat-square&logo=google-cloud&logoColor=white" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /></a>
+  <a href="https://www.heroku.com/" target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></a>
   <a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-computer-vision#object-classification" target="_blank"><img alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-0094D6?style=flat-square&logo=computer-vision&logoColor=white" /></a>
   <a href="https://aws.amazon.com/what-is/etl/" target="_blank"><img alt="ETL" src="https://img.shields.io/badge/-ETL-DAF7A6?style=flat-square&logo=etl&logoColor=black" /></a>
   <a href="https://www.tableau.com/" target="_blank"><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></a>
@@ -97,6 +103,23 @@ Here are some ideas to get you started:
   <a href="https://www.ibm.com/docs/fi/aix/7.2?topic=protocol-tcpip-protocols" target="_blank"><img alt="IP" src="https://img.shields.io/badge/-IP-FF5722?style=flat-square&logo=ip&logoColor=white" /></a>
   <a href="https://devdocs.io/http/" target="_blank"><img alt="HTTP" src="https://img.shields.io/badge/-HTTP-008C76?style=flat-square&logo=http&logoColor=white" /></a>
   <a href="https://www.ibm.com/docs/en/aix/7.1?topic=protocols-user-datagram-protocol" target="_blank"><img alt="UDP" src="https://img.shields.io/badge/-UDP-FF0000?style=flat-square&logo=udp&logoColor=white" /></a>
+  <a href="https://keras.io/" target="_blank"><img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" /></a>
+  <a href="https://www.pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
+  <a href="https://matplotlib.org/" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib&logoColor=white" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-FF91A4?style=flat-square&logo=seaborn&logoColor=white" /></a>
+  <a href="https://www.nltk.org/" target="_blank"><img alt="NLTK" src="https://img.shields.io/badge/-NLTK-1E7C8C?style=flat-square&logo=nltk&logoColor=white" /></a>
+  <a href="https://www.openai.com/" target="_blank"><img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-00A4B8?style=flat-square&logo=openai&logoColor=white" /></a>
+  <a href="https://www.databricks.com/" target="_blank"><img alt="Databricks" src="https://img.shields.io/badge/-Databricks-FF5733?style=flat-square&logo=databricks&logoColor=white" /></a>
+  <a href="https://www.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/-Apache-3E6E3E?style=flat-square&logo=apache&logoColor=white" /></a>
+
+
+  <a href="https://scikit-learn.org/" target="_blank"><img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://www.coursera.org/professional-certificates/google-data-analytics" target="_blank"><img alt="Data Analytics" src="https://img.shields.io/badge/-Data%20Analytics-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
+  <a href="https://www.nltk.org/" target="_blank"><img alt="Natural Language Processing" src="https://img.shields.io/badge/-NLP-1E7C8C?style=flat-square&logo=nltk&logoColor=white" /></a>
+
+
 </p>
 
 
