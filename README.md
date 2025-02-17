@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 <div align="center">
   <h1 align="center"> 👋 Hi, World! I'm Ehsan</h1>
 
-  <img 
-    src="https://raw.githubusercontent.com/royalblaster/royalblaster/main/githubprofile.png" 
-    alt="Profile Picture" 
-    width="400" 
-  />
-  
   <h3>📞 Connect with me</h3>
   
   <p>
