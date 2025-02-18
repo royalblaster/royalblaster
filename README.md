@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, World! I'm Ehsan</h1>
 
- 
+ ![Alt text](https://github.com/royalblaster/royalblaster/blob/main/Ehsan%20Ahmed%20Profile%20Linkedin%20Banner.png?raw=true)
+
 
 # 👩‍💻 About Me
 
