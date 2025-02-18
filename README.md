@@ -60,51 +60,51 @@ Here are some ideas to get you started:
 <p>
   <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
   <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
+  <a href="https://devdocs.io/c/" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></a>
   <a href="https://isocpp.org/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
+  <a href="https://ocaml.org/" target="_blank"><img alt="OCaml" src="https://img.shields.io/badge/-OCaml-3B6AA0?style=flat-square&logo=ocaml&logoColor=white" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /></a>
+  <a href="https://developer.arm.com/documentation/107829/0200/Assembly-language-basics" target="_blank"><img alt="ARM Assembly" src="https://img.shields.io/badge/-ARM%20Assembly-A3AA00?style=flat-square&logo=arm&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /></a>
+  <a href="https://pig.apache.org/docs/latest/index.html" target="_blank"><img alt="Pig Latin" src="https://img.shields.io/badge/-Pig%20Latin-FFDB58?style=flat-square&logo=pig&logoColor=black" /></a>
   <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></a>
   <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /></a>
+  <a href="https://expo.dev/" target="_blank"><img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+  <a href="https://threejs.org/" target="_blank"><img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></a>
   <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /></a>
+  <a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /></a>
+  <a href="https://docs.data.world/documentation/sql/concepts/basic/intro.html" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
+  <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
   <a href="https://cloud.google.com/" target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" /></a>
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="https://devdocs.io/c/" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></a>
-  <a href="https://ocaml.org/" target="_blank"><img alt="OCaml" src="https://img.shields.io/badge/-OCaml-3B6AA0?style=flat-square&logo=ocaml&logoColor=white" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /></a>
-  <a href="https://developer.arm.com/documentation/107829/0200/Assembly-language-basics" target="_blank"><img alt="ARM Assembly" src="https://img.shields.io/badge/-ARM%20Assembly-A3AA00?style=flat-square&logo=arm&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /></a>
-  <a href="https://pig.apache.org/docs/latest/index.html" target="_blank"><img alt="Pig Latin" src="https://img.shields.io/badge/-Pig%20Latin-FFDB58?style=flat-square&logo=pig&logoColor=black" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
-  <a href="https://threejs.org/" target="_blank"><img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://expo.dev/" target="_blank"><img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" /></a>
-  <a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img alt=".NET" src="https://img.shields.io/badge/-NET-512BD4?style=flat-square&logo=.net&logoColor=white" /></a>
   <a href="https://unity.com/" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" /></a>
   <a href="https://airflow.apache.org/" target="_blank"><img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
   <a href="https://www.postman.com/" target="_blank"><img alt="Postman API" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
   <a href="https://gradle.org/" target="_blank"><img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" /></a>
   <a href="https://cucumber.io/docs/gherkin/reference/" target="_blank"><img alt="Gherkin" src="https://img.shields.io/badge/-Gherkin-5B8D22?style=flat-square&logo=cucumber&logoColor=white" /></a>
-  <a href="https://docs.data.world/documentation/sql/concepts/basic/intro.html" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
   <a href="https://restfulapi.net/" target="_blank"><img alt="REST" src="https://img.shields.io/badge/-REST-00B4B4?style=flat-square&logo=rest&logoColor=white" /></a>
   <a href="https://www.soapui.org/" target="_blank"><img alt="SOAP API" src="https://img.shields.io/badge/-SOAP%20API-1C6F99?style=flat-square&logo=soapui&logoColor=white" /></a>
-  <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
   <a href="https://cloud.google.com/bigquery" target="_blank"><img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-00B5E2?style=flat-square&logo=google-cloud&logoColor=white" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
   <a href="https://www.raspberrypi.org/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" /></a>
