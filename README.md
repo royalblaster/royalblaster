@@ -152,6 +152,14 @@ Here are some ideas to get you started:
 <h1 align="left"> <a href="https://www.leetcode.com/royalblaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalblaster" height="30" width="40" /></a>   My Stats </h1>
 
 
+# 🎓 Certificates & Licenses
+
+- **Google Data Analytics Professional Certificate** - *Issued by Google via Coursera*  
+  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)  
+  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/0NLGHHXWKPJP)
+
+
+
 <div align="center">
   <a href="https://leetcode.com/royalblaster/">
     <img src="https://leetcard.jacoblin.cool/royalblaster?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats" width="600" height="300">
