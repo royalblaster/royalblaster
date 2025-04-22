@@ -153,7 +153,7 @@ Here are some ideas to get you started:
 
 - **Google Data Analytics Professional Certificate** - *Issued by Google via Coursera*  
 ![Google Data Analytics Certificate](https://github.com/royalblaster/royalblaster/blob/main/google_data-analytics_professional_certificate.jpg?raw=true)  
-  [🔗 View Certificate](https://www.coursera.org/account/accomplishments/specialization/0NLGHHXWKPJP)
+  [🔗 View Certificate](https://coursera.org/share/c41b79f1eb1180e619fc1ba1c513c291)
 
 
 
